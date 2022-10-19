@@ -1,0 +1,812 @@
+﻿  vsnConfigure.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\vsnconfigure.cpp(578): warning C4267: '=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vsnconfigure.cpp(798): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vsnconfigure.cpp(808): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vsnconfigure.cpp(1034): warning C4267: '=': conversion from 'size_t' to 'UINT32', possible loss of data
+  VI_inspection.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(152): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(153): error C2065: 'VIVNUM_MAP_JIG_HALL_POS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(153): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(154): error C2065: 'VIVNUM_MAP_TRAY_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(154): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(155): error C2065: 'VIVNUM_MAP_PRECISOR_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(155): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(156): error C2065: 'VIVNUM_PRS_PAD_PITCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(156): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(157): error C2065: 'VIVNUM_PRS_JIG_HALL_POS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(157): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(158): error C2065: 'VIVNUM_PRS_BRUSH_PAD_PITCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(158): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(159): error C2065: 'VIVNUM_TOP1_JIG_HALL_POS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(159): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(160): error C2065: 'VIVNUM_TOP1_TRAY_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(160): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(161): error C2065: 'VIVNUM_TOP1_PRECISOR_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(161): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(162): error C2065: 'VIVNUM_TOP2_JIG_HALL_POS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(162): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(163): error C2065: 'VIVNUM_TOP2_TRAY_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(163): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(164): error C2065: 'VIVNUM_TOP2_PRECISOR_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(164): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(165): error C2065: 'VIVNUM_SETTING_JIG_HALL_POS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(165): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(166): error C2065: 'VIVNUM_SETTING_TRAY_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(166): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(167): error C2065: 'VIVNUM_SETTING_PRECISOR_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(167): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(168): error C2065: 'VIVNUM_MAP_EXP_TABLE_PIN_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(168): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(169): error C2065: 'VIVNUM_TOP1_GRID_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(169): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(170): error C2065: 'VIVNUM_TOP2_GRID_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(170): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(171): error C2065: 'VIVNUM_TOP1_APC_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(171): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(172): error C2065: 'VIVNUM_TOP2_APC_CENTER': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(172): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(173): error C2065: 'VIVNUM_B2D_BOTTOM_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(173): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(174): error C2065: 'VIVNUM_B2D_TOP_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(174): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(175): error C2065: 'VIVNUM_B2D_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(183): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(184): error C2065: 'VIVNUM_PRS_PAD_PITCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(184): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(185): error C2065: 'VIVNUM_PRS_JIG_HALL_POS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(185): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(186): error C2065: 'VIVNUM_PRS_BRUSH_PAD_PITCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(197): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(198): error C2065: 'VIVNUM_B2D_BOTTOM_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(198): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(199): error C2065: 'VIVNUM_B2D_TOP_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(199): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(199): error C2065: 'VIVNUM_B2D_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(222): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(223): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(248): warning C4244: 'argument': conversion from 'UINT32' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(254): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(255): error C2065: 'VIVNUM_B2D_BOTTOM_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(255): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(256): error C2065: 'VIVNUM_B2D_TOP_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(256): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(256): error C2065: 'VIVNUM_B2D_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(265): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(273): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(406): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(407): error C2065: 'VIVNUM_B2D_BOTTOM_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(407): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(408): error C2065: 'VIVNUM_B2D_TOP_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(408): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(408): error C2065: 'VIVNUM_B2D_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(465): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(466): error C2065: 'VIVNUM_B2D_BOTTOM_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(466): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(467): error C2065: 'VIVNUM_B2D_TOP_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(467): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(467): error C2065: 'VIVNUM_B2D_STRIP_HOLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2141): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2141): error C2065: 'VIVNUM_PRS_BOTTOM_BALL_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2189): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2284): error C2838: 'INS_BAL_PKG_WIDTH_MIN': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2284): error C2065: 'INS_BAL_PKG_WIDTH_MIN': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2285): error C2838: 'INS_BAL_PKG_WIDTH_MAX': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2285): error C2065: 'INS_BAL_PKG_WIDTH_MAX': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2286): error C2838: 'INS_BAL_PKG_HEIGHT_MIN': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2286): error C2065: 'INS_BAL_PKG_HEIGHT_MIN': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2287): error C2838: 'INS_BAL_PKG_HEIGHT_MAX': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2287): error C2065: 'INS_BAL_PKG_HEIGHT_MAX': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2289): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2290): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2292): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2293): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2295): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2296): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2297): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2298): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2301): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2302): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2303): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2304): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2314): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2326): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2435): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2551): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2552): warning C4244: 'argument': conversion from 'UINT32' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2558): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2563): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2584): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2596): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2597): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2598): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2599): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2634): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2640): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2671): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2677): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(2709): error C2838: 'BOTTOM_QFNLGA_NO_DEVICE': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): error C2065: 'tl_t_soff': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): error C2065: 'rp': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): error C2228: left of '.tl' must have class/struct/union
+  d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): error C2228: left of '.x' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): error C2228: left of '.y' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): error C2228: left of '.tr' must have class/struct/union
+  d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): error C2065: 'tl_l_soff': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): error C2065: 'rp': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): error C2228: left of '.tl' must have class/struct/union
+  d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): error C2228: left of '.x' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): error C2228: left of '.y' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): error C2228: left of '.bl' must have class/struct/union
+  d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3132): error C2065: 'tr_t_soff': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3132): error C2065: 'rp': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\vi_inspection.cpp(3132): fatal error C1003: error count exceeds 100; stopping compilation
+  vision_thread.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\vision_thread.cpp(274): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'DWORD *'
+d:\btl code\gen4\vsn\vs_arch2\vision_thread.cpp(274): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'DWORD *'
+  VisionRun.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  visioninsp_stat.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(468): error C2838: 'MARK_CHIP_OUT': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(468): error C2065: 'MARK_CHIP_OUT': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(475): error C2838: 'MARK_FOREIGN_MATERIAL': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(475): error C2065: 'MARK_FOREIGN_MATERIAL': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(479): error C2838: 'MARK_FOREIGN_MATERIAL': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(479): error C2065: 'MARK_FOREIGN_MATERIAL': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(483): error C2838: 'MARK_MARK_PKG_SIZE_PLUS': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(483): error C2065: 'MARK_MARK_PKG_SIZE_PLUS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(487): error C2065: 'mark_pkg_size_minus_offset': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(487): error C2065: 'mark_pkg_size_plus_offset': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(491): error C2838: 'MARK_PKG_BURR': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(491): error C2065: 'MARK_PKG_BURR': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(495): error C2065: 'mark_pkg_size_plus_offset': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(498): error C2838: 'MARK_NO_MARK': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(498): error C2065: 'MARK_NO_MARK': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(501): error C2065: 'mark_score': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(504): error C2838: 'MARK_SCRATCH': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(504): error C2065: 'MARK_SCRATCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(515): error C2838: 'MARK_MISSING_PKG': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(515): error C2065: 'MARK_MISSING_PKG': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(535): error C2838: 'BGA_BALL_LAND_FM': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(535): error C2065: 'BGA_BALL_LAND_FM': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(538): error C2838: 'BGA_BALL_PKG_SIZE_PLUS': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(538): error C2065: 'BGA_BALL_PKG_SIZE_PLUS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(542): error C2065: 'ball_pkg_size_minus_offset': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(542): error C2065: 'ball_pkg_size_plus_offset': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(545): error C2838: 'BGA_BALL_SIZE': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(545): error C2065: 'BGA_BALL_SIZE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(552): error C2838: 'BGA_EXTRA_BALL': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(552): error C2065: 'BGA_EXTRA_BALL': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(552): error C2838: 'BGA_BALL_MISSING': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(552): error C2065: 'BGA_BALL_MISSING': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(559): error C2838: 'BGA_SAW_OFFSET': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(559): error C2065: 'BGA_SAW_OFFSET': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(565): error C2065: 'ball_sawing_width_C': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(565): error C2065: 'ball_sawing_height_D': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(565): error C2065: 'ball_saw_offset_num': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(568): error C2838: 'BGA_SCRATCH': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(568): error C2065: 'BGA_SCRATCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(579): error C2838: 'BGA_BALL_PITCH': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(579): error C2065: 'BGA_BALL_PITCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(587): error C2838: 'BGA_BALL_POSITION': illegal qualified name in member declaration
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(587): error C2065: 'BGA_BALL_POSITION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(754): error C2039: 'statCountNum': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\visioninsp_stat.cpp(755): error C2039: 'statCountNum': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+  visionInsp.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1123): warning C4018: '>=': signed/unsigned mismatch
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1501): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1502): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1503): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1504): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1815): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1816): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1817): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(1818): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2088): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2089): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2090): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2752): warning C4267: '=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2774): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2775): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2778): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2793): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2801): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2820): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2821): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2840): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2846): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2859): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2860): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2871): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2872): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2882): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2900): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2901): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(2902): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3064): warning C4267: '=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3085): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3093): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3099): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3107): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3113): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3151): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3185): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3194): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3195): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3196): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3207): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3245): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3246): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3247): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3248): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3723): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3724): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3725): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3726): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3727): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3728): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3867): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(3937): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4061): warning C4244: '=': conversion from 'UINT32' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4231): warning C4018: '>=': signed/unsigned mismatch
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4322): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4326): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4332): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4551): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4564): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4619): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4729): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4761): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4796): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4492): warning C4101: 'tempAreaY': unreferenced local variable
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(4492): warning C4101: 'tempAreaX': unreferenced local variable
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(5697): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(5764): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+  d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(5764): note: consider using '%zd' in the format string
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(5818): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(5875): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+  d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(5875): note: consider using '%zd' in the format string
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(5895): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6035): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6280): error C2664: 'int BTL_MV::btlImgProcessing::getBarcodeResult(cv::Mat,cv::Mat &,int,char *,int,int &,cv::Rect &)': cannot convert argument 4 from 'char **' to 'char *'
+  d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6280): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6359): error C2664: 'int BTL_MV::btlImgProcessing::getBarcodeResult(cv::Mat,cv::Mat &,int,char *,int,int &,cv::Rect &)': cannot convert argument 4 from 'char **' to 'char *'
+  d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6359): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6377): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6420): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6421): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6422): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6423): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6853): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6856): error C2039: 'objectFilter': is not a member of 'VisionInspection'
+  d:\btl code\gen4\vsn\vs_arch2\visioninsp.h(1090): note: see declaration of 'VisionInspection'
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6876): error C3861: 'initSeq': identifier not found
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6882): error C2065: 'grayValueForTeachingSeqNo': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6882): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6894): error C2065: 'seqData': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6894): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6930): error C2065: 'cam_idx': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6952): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6953): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6954): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6955): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6968): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6973): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6973): error C2228: left of '.inImgData' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6973): error C2228: left of '.empty' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6973): error C2228: left of '.obfData' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6973): error C2228: left of '.size' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6975): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6975): error C2228: left of '.inImgData' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6975): error C2228: left of '.obfData' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6975): error C2228: left of '.rotatedRect' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6998): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6998): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6999): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(6999): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7002): error C2065: 'seqData': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7010): error C2065: 'seqData': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7015): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7016): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7018): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7019): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7021): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7022): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7024): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7025): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7029): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7030): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7032): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7033): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7035): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7036): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7038): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7039): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7045): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7046): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7048): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7049): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7051): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7052): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7054): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7055): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7065): error C2065: 'seqData': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7068): error C2065: '_insImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7068): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7068): error C2228: left of '.begin' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7074): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7074): error C2228: left of '.inImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7074): error C2228: left of '.cols' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7074): error C2228: left of '.rows' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7075): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7079): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7211): error C2039: 'findObjectShapeXld': is not a member of 'BTL_MV::btlImgProcessing'
+  d:\btl code\btlvisionlib\btlimgprocessing.h(511): note: see declaration of 'BTL_MV::btlImgProcessing'
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7211): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7211): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7211): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7211): error C2228: left of '.teachingImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7222): error C2065: 'is_test_mode': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7224): error C2065: 'golden_seqIdx': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7224): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7226): error C2065: 'goldenOption': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7228): error C2065: 'goldenOption': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7237): error C2065: 'is_test_mode': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7239): error C2065: 'goldenOption': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7241): error C2065: 'golden_seqIdx': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7241): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7262): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7262): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7264): error C2065: 'seqData': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7268): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7268): error C2227: left of '->Read' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7268): error C2227: left of '->GetIdx' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7269): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7269): error C2227: left of '->Read' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7269): error C2227: left of '->GetIdx' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7276): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7276): error C2228: left of '.outImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7276): error C2228: left of '.cols' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7277): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7277): error C2228: left of '.outImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7277): error C2228: left of '.rows' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7279): error C3861: 'addGoldenInfo': identifier not found
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7283): error C3861: 'addGoldenInfo': identifier not found
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7287): error C3861: 'addGoldenInfo': identifier not found
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7298): error C3861: 'compareGoldenInfo': identifier not found
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7307): error C3861: 'getGoldenIgnoreInfo': identifier not found
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7318): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7318): error C2227: left of '->Read' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7318): error C2227: left of '->GetIdx' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7319): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7319): error C2227: left of '->Read' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7319): error C2227: left of '->GetIdx' must point to class/struct/union/generic type
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7321): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7321): error C2065: 'vi_type': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7323): error C2065: 'seqData': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7328): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7328): error C2228: left of '.outImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7328): error C2228: left of '.cols' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7329): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7329): error C2228: left of '.outImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7329): error C2228: left of '.rows' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7342): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7343): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7347): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7348): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7351): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7352): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7362): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7364): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7366): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7378): error C2065: 'is_test_mode': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7380): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7380): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7380): error C2228: left of '.teachingImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7380): error C2228: left of '.channels' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7382): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7382): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7382): error C2228: left of '.teachingImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7382): error C2660: 'cv::cvtColor': function does not take 2 arguments
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7386): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7386): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7386): error C2228: left of '.teachingImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7397): error C2065: 'seqImg': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7397): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7397): error C2228: left of '.teachingImg' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7398): error C2065: 'ins_state': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7398): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7399): error C2065: 'move_to': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7400): error C2065: 'seq_now': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7417): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7419): error C3861: 'getInOutImage': identifier not found
+d:\btl code\gen4\vsn\vs_arch2\visioninsp.cpp(7419): fatal error C1003: error count exceeds 100; stopping compilation
+  vision.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(177): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(185): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(189): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(194): error C2039: 'gridTableGroupX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(194): error C2039: 'gridTableRoiX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(196): error C2039: 'gridTableGroupX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(196): error C2039: 'gridTableRoiX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(200): error C2039: 'gridTableGroupX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(200): error C2039: 'gridTableRoiX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(203): error C2039: 'gridTableGroupY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(203): error C2039: 'gridTableRoiY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(205): error C2039: 'gridTableGroupY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(205): error C2039: 'gridTableRoiY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(209): error C2039: 'gridTableGroupY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(209): error C2039: 'gridTableRoiY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(217): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(284): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(284): error C2039: 'gridTableShotY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\vision.cpp(368): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+  util.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(64): warning C4244: '=': conversion from 'unsigned __int64' to 'long', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(101): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(294): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(390): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(402): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(349): warning C4101: 'bb': unreferenced local variable
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(586): error C2039: 'gridTableStt': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(587): error C2039: 'gridTableB2dString': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(588): error C2039: 'gridTableGroup': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(589): error C2039: 'gridTableImgReq': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\util.cpp(818): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  stdafx.cpp
+  LotEnd_log.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\lotend_log.cpp(13): error C2039: 'statCountNum': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\lotend_log.cpp(14): error C2039: 'statCountNum': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\lotend_log.cpp(217): error C2039: 'LotEndPath': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\lotend_log.cpp(219): error C2039: 'LotEndPath': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+  log.cpp
+d:\btl code\gen4\vsn\vs_arch2\log.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\log.cpp(82): warning C4267: '+=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\log.cpp(120): warning C4267: '+=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\log.cpp(153): warning C4267: '+=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\log.cpp(178): warning C4267: '+=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\log.cpp(213): warning C4267: '+=': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\log.cpp(294): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  jsoncpp.cpp
+  io_handler.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(214): error C2039: 'getAOI': is not a member of 'BTL_MV::btlCameraInfo'
+  d:\btl code\btlvisionlib\btlcamerainfo.h(68): note: see declaration of 'BTL_MV::btlCameraInfo'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1081): warning C4267: 'initializing': conversion from 'size_t' to 'UINT32', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1099): warning C4800: 'UINT32': forcing value to bool 'true' or 'false' (performance warning)
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1495): error C2039: 'changeRecipePath': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1495): error C2660: 'strcpy': function does not take 1 arguments
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1536): error C2065: 'VIVNUM_PRS_BOTTOM_LEAD_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1538): error C2065: 'VIVNUM_PRS_BOTTOM_BALL_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1798): error C2065: 'VIVNUM_PRS_BOTTOM_LEAD_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1800): error C2065: 'VIVNUM_PRS_BOTTOM_BALL_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1842): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1843): error C2065: 'VIVNUM_PRS_BOTTOM_BALL_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1843): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1844): error C2065: 'VIVNUM_PRS_BOTTOM_LEAD_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1844): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1845): error C2065: 'VIVNUM_PRS_PAD_PITCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1845): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1846): error C2065: 'VIVNUM_PRS_JIG_HALL_POS': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1846): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1847): error C2065: 'VIVNUM_PRS_BRUSH_PAD_PITCH': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1854): error C2039: 'CamIspCapDoneIdx': is not a member of '_caminfo_'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(972): note: see declaration of '_caminfo_'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1855): error C2039: 'CamIspPopIdx': is not a member of '_caminfo_'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(972): note: see declaration of '_caminfo_'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1856): error C2039: 'CamIspPushIdx': is not a member of '_caminfo_'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(972): note: see declaration of '_caminfo_'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1858): error C2039: 'vCamIspIdx': is not a member of '_caminfo_'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(972): note: see declaration of '_caminfo_'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1858): error C2228: left of '.clear' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1859): error C2039: 'vCamIspIdx': is not a member of '_caminfo_'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(972): note: see declaration of '_caminfo_'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1859): error C2228: left of '.shrink_to_fit' must have class/struct/union
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1861): error C2039: 'aCamInspInfo': is not a member of '_caminfo_'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(972): note: see declaration of '_caminfo_'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1908): error C2065: '_gUIPRS_GridTableReq': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1908): error C2227: left of '->gridTableStt' must point to class/struct/union/generic type
+  d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1908): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1909): error C2065: '_gUIPRS_GridTableReq': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1909): error C2227: left of '->gridTableGroup' must point to class/struct/union/generic type
+  d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1909): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1910): error C2065: '_gUIPRS_GridTableReq': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1910): error C2227: left of '->gridTableImgReq' must point to class/struct/union/generic type
+  d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1910): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1928): error C2039: 'gridTableGroupX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1931): error C2065: '_gUIPRS_GridTableReq': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1931): error C2227: left of '->gridTableStt' must point to class/struct/union/generic type
+  d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1931): note: type is 'unknown-type'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1931): error C2039: 'gridTableGroupY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1951): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1952): error C2065: 'VIVNUM_PRS_BOTTOM_BALL_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1952): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(1952): error C2065: 'VIVNUM_PRS_BOTTOM_LEAD_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(2155): error C2065: 'VIVNUM_PRS_BOTTOM_LEAD_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(2157): error C2065: 'VIVNUM_PRS_BOTTOM_BALL_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(2292): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(2369): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(2369): note: consider using '%zd' in the format string
+d:\btl code\gen4\vsn\vs_arch2\io_handler.cpp(2387): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+  Ini.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(424): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(724): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(739): warning C4018: '<': signed/unsigned mismatch
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(926): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(935): warning C4018: '<': signed/unsigned mismatch
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1026): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1157): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1490): warning C4018: '<': signed/unsigned mismatch
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1632): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1704): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1711): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1732): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+d:\btl code\gen4\vsn\vs_arch2\ini.cpp(1732): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+  event.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  CtrProtocol.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(534): error C2039: 'binSortingModeFlag': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(572): error C2039: 'lotChangeFlag': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(574): error C2039: 'binSortingModeFlag': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(601): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(671): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(827): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(930): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(940): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(959): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(989): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(990): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\btl code\gen4\vsn\vs_arch2\ctrprotocol.cpp(991): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  conf.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  comm_handler.cpp
+d:\btl code\btlvisionlib\btlimgprocessing.h(512): warning C4251: 'BTL_MV::btlImgProcessing::testImgInfo': class 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'BTL_MV::btlImgProcessing'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+  d:\btl code\btlvisionlib\btlimgprocessing.h(512): note: see declaration of 'std::vector<sTestImgInfo_ *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sTestImgInfo_ *
+          ]
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(75): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(117): error C2039: 'gridTableShotY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(142): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(167): error C2039: 'gridTableShotY': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(197): error C2039: 'gridTableShotX': is not a member of '_sVsnUIInfShm'
+  d:\btl code\gen4\vsn\vs_arch2\global.h(523): note: see declaration of '_sVsnUIInfShm'
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(663): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(663): error C2065: 'VIVNUM_MAP_GRIDTABLE': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(680): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(681): error C2065: 'VIVNUM_PRS_BOTTOM_LEAD_INSPECTION': undeclared identifier
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(681): error C2653: 'eInspVIVNum': is not a class or namespace name
+d:\btl code\gen4\vsn\vs_arch2\comm_handler.cpp(681): error C2065: 'VIVNUM_PRS_BOTTOM_BALL_INSPECTION': undeclared identifier
+  Generating Code...
+d:\btl code\gen4\vsn\vs_arch2\vsnconfigure.cpp(290): warning C4715: 'getInspectionInfo': not all control paths return a value
+FileTracker : error FTK1013: 파일 추적 로그 파일 D:\btl code\Gen4\VSN\vs_arch2\x64\Debug\vs_arch2.tlog\CL.write.1.tlog에서 유니코드 바이트 순서 표식을 찾을 수 없습니다. 추적 데이터가 잘못되었습니다.
+  
